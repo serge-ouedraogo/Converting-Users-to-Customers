@@ -1,6 +1,5 @@
 #### Conversion Rate
-
-   
+The goal here is to build a model that predicts conversion rate and, based on the model, come up with ideas to improve revenue. From EDA it appears the feature total_page_visited is a good indicator of conversion rate. 
 The table is conversion_data. It has information about signed-in users during one session. Each row is a user session.
 Columns:
 
