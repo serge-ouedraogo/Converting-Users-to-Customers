@@ -1,5 +1,5 @@
 ### Conversion Rate
-The goal here is to build a model that predicts conversion rate and, based on the model, come up with ideas to improve revenue. From EDA it appears the feature total_page_visited is a good indicator of conversion rate. 
+The goal here is to build a model to identify features that are good predictor onconversion rate and, based on the model, come up with ideas to improve revenue. From EDA it appears the feature total_page_visited is a good indicator of conversion rate. 
 
 ### Data
     country : user country based on the IP address
